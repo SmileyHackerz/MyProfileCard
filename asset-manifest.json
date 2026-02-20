@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//smileyhackerz.github.io/MyProfileCard/static/css/main.c3258e33.css",
+    "main.js": "//smileyhackerz.github.io/MyProfileCard/static/js/main.d6fe3386.js",
+    "index.html": "//smileyhackerz.github.io/MyProfileCard/index.html",
+    "main.c3258e33.css.map": "//smileyhackerz.github.io/MyProfileCard/static/css/main.c3258e33.css.map",
+    "main.d6fe3386.js.map": "//smileyhackerz.github.io/MyProfileCard/static/js/main.d6fe3386.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3258e33.css",
+    "static/js/main.d6fe3386.js"
+  ]
+}
